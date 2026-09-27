@@ -59,7 +59,15 @@ Could you take a look at my work and share your feedback? I’d love your though
 
 </div>
 
-### `05` / currently
+### `05` / contribution trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish49/Bhavish49/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish49/Bhavish49/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/Bhavish49/Bhavish49/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### `06` / currently
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
