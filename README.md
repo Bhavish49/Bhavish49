@@ -32,17 +32,13 @@ I use this space to share what I build, what I’m exploring, and the ideas I’
 
 ### `02` / terminal
 
-```console
-┌─ guest@bhavish: ~/portfolio ───────────────────────┐
-│                                                     │
-│  $ ls repositories                                  │
-│  projects/   experiments/   ideas/                  │
-│                                                     │
-│  $ review --repositories                            │
-│  › Feedback welcome. What should I improve next?    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+The README itself can’t accept typed commands, so I made a small interactive terminal page. Try `help`, `about`, `projects`, or `review`.
+
+<div align="center">
+
+[![Open interactive terminal](https://img.shields.io/badge/Open_interactive_terminal-Run_commands-2563EB?style=for-the-badge&logo=windows-terminal)](https://bhavish49.github.io/Bhavish49/terminal/)
+
+</div>
 
 Could you take a look at my work and share your feedback? I’d love your thoughts on the projects, code, and what I should improve.
 
