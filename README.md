@@ -1,6 +1,8 @@
 <div align="center">
 
-## Bhavish B N
+<div align="center">
+  <img src="./assets/name-banner.svg" alt="Bhavish B N" width="420" />
+</div>
 
 ```text
 ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗███████╗██╗  ██╗     ██╗  ██╗ █████╗  █████╗
