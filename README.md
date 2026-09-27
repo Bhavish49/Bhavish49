@@ -1,5 +1,7 @@
 <div align="center">
 
+## Bhavish B N
+
 ```text
 ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗███████╗██╗  ██╗     ██╗  ██╗ █████╗  █████╗
 ██╔══██╗██║  ██║██╔══██╗██║   ██║██║██╔════╝██║  ██║     ██║  ██║██╔══██╗██╔══██╗
@@ -9,7 +11,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `building ideas into things that work` · `learning in public`
+### `building ideas into things that work` · `learning in public` · `20`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bhavish49-181717?style=for-the-badge&logo=github)](https://github.com/Bhavish49)
 [![Repositories](https://img.shields.io/badge/Explore-my_repositories-2563EB?style=for-the-badge&logo=github)](https://github.com/Bhavish49?tab=repositories)
@@ -21,7 +23,8 @@
 ### `01` / about
 
 ```yaml
-name: Bhavish
+name: Bhavish B N
+age: 20
 github: Bhavish49
 currently: Exploring, learning, building
 portfolio: Browse the projects and experiments below
