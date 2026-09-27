@@ -30,7 +30,29 @@ portfolio: Browse the projects and experiments below
 
 I use this space to share what I build, what I’m exploring, and the ideas I’m working through. Take a look around the repositories—each one is a small part of the journey.
 
-### `02` / explore
+### `02` / terminal
+
+```console
+┌─ guest@bhavish: ~/portfolio ───────────────────────┐
+│                                                     │
+│  $ ls repositories                                  │
+│  projects/   experiments/   ideas/                  │
+│                                                     │
+│  $ review --repositories                            │
+│  › Feedback welcome. What should I improve next?    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+Could you take a look at my work and share your feedback? I’d love your thoughts on the projects, code, and what I should improve.
+
+<div align="center">
+
+[![Review my repositories](https://img.shields.io/badge/Review_my_repositories-Explore_%E2%86%97-2563EB?style=for-the-badge&logo=github)](https://github.com/Bhavish49?tab=repositories)
+
+</div>
+
+### `03` / explore
 
 | Destination | What you’ll find |
 |:--|:--|
@@ -38,7 +60,7 @@ I use this space to share what I build, what I’m exploring, and the ideas I’
 | [Recent activity ↗](https://github.com/Bhavish49?tab=activity) | What I’ve been working on lately |
 | [Follow along ↗](https://github.com/Bhavish49) | New work and updates on GitHub |
 
-### `03` / github telemetry
+### `04` / github telemetry
 
 <div align="center">
 
@@ -49,7 +71,7 @@ I use this space to share what I build, what I’m exploring, and the ideas I’
 
 </div>
 
-### `04` / currently
+### `05` / currently
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
