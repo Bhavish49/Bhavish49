@@ -11,8 +11,8 @@
 
 ### `building ideas into things that work` · `learning in public` · `20`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bhavish49-181717?style=for-the-badge&logo=github)](https://github.com/Bhavish49)
-[![Repositories](https://img.shields.io/badge/Explore-my_repositories-2563EB?style=for-the-badge&logo=github)](https://github.com/Bhavish49?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhavish49-0D0221?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=0D0221)](https://github.com/Bhavish49)
+[![Repositories](https://img.shields.io/badge/Explore-my_repositories-0D0221?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=FF00CC)](https://github.com/Bhavish49?tab=repositories)
 
 </div>
 
@@ -36,7 +36,7 @@ Could you take a look at my work and share your feedback? I’d love your though
 
 <div align="center">
 
-[![Review my repositories](https://img.shields.io/badge/Review_my_repositories-Explore_%E2%86%97-2563EB?style=for-the-badge&logo=github)](https://github.com/Bhavish49?tab=repositories)
+[![Review my repositories](https://img.shields.io/badge/Review_my_repositories-Explore_%E2%86%97-0D0221?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=FF00CC)](https://github.com/Bhavish49?tab=repositories)
 
 </div>
 
@@ -52,16 +52,20 @@ Could you take a look at my work and share your feedback? I’d love your though
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhavish49&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Bhavish's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish49&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhavish49&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00FFCC&text_color=00FFCC&icon_color=FF00CC&rank_icon=github" alt="Bhavish's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavish49&layout=compact&hide_border=true&bg_color=0D0221&title_color=00FFCC&text_color=00FFCC&icon_color=FF00CC" alt="Most used languages" />
 
-<img width="72%" src="https://streak-stats.demolab.com?user=Bhavish49&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<img width="72%" src="https://streak-stats.demolab.com?user=Bhavish49&hide_border=true&background=0D0221&ring=00FFCC&fire=FF00CC&currStreakLabel=00FFCC&sideLabels=00FFCC&dates=00CCAA" alt="GitHub contribution streak" />
 
 </div>
 
 ### `05` / contribution trail
 
-![Animated snake moving across my GitHub contribution graph](https://raw.githubusercontent.com/Bhavish49/Bhavish49/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img width="90%" alt="Animated neon contribution snake" src="https://raw.githubusercontent.com/Bhavish49/Bhavish49/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ### `06` / currently
 
@@ -79,7 +83,7 @@ Could you take a look at my work and share your feedback? I’d love your though
 
 **Thanks for visiting.** If something here sparks an idea, feel free to explore, star, or reach out through GitHub.
 
-![Profile views](https://komarev.com/ghpvc/?username=Bhavish49&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Bhavish49&style=flat-square&color=00FFCC&labelColor=0D0221&label=PROFILE+VIEWS)
 
 `crafted with curiosity` · [@Bhavish49](https://github.com/Bhavish49)
 
