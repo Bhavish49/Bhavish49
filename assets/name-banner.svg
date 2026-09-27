@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-labelledby="title">
-  <title id="title">Bhavish B N</title>
-  <text x="420" y="82" text-anchor="middle" fill="#f97316" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-1">Bhavish B N</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title">
+  <title id="title">BHAVISH BN</title>
+  <text x="500" y="24" text-anchor="middle" xml:space="preserve" fill="#f97316" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">
+    <tspan x="500" dy="0">██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗███████╗██╗  ██╗   ██████╗ ███╗   ██╗</tspan>
+    <tspan x="500" dy="18">██╔══██╗██║  ██║██╔══██╗██║   ██║██║██╔════╝██║  ██║   ██╔══██╗████╗  ██║</tspan>
+    <tspan x="500" dy="18">██████╔╝███████║███████║██║   ██║██║███████╗███████║   ██████╔╝██╔██╗ ██║</tspan>
+    <tspan x="500" dy="18">██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝██║╚════██║██╔══██║   ██╔══██╗██║╚██╗██║</tspan>
+    <tspan x="500" dy="18">██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║███████║██║  ██║   ██████╔╝██║ ╚████║</tspan>
+    <tspan x="500" dy="18">╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═════╝ ╚═╝  ╚═══╝</tspan>
+  </text>
 </svg>
