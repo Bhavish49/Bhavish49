@@ -63,7 +63,7 @@ Could you take a look at my work and share your feedback? I’d love your though
 
 <div align="center">
 
-<img width="90%" alt="Animated neon contribution snake" src="https://raw.githubusercontent.com/Bhavish49/Bhavish49/output/github-contribution-grid-snake.svg" />
+<img width="90%" alt="Animated neon contribution snake" src="https://raw.githubusercontent.com/Bhavish49/Bhavish49/output/github-contribution-grid-snake.svg?v=3c3ea69" />
 
 </div>
 
