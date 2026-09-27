@@ -34,12 +34,9 @@ I use this space to share what I build, what I’m exploring, and the ideas I’
 
 | Destination | What you’ll find |
 |:--|:--|
-| [Play Gyro Snake ↗](https://Bhavish49.github.io/Bhavish49/snake/) | A small browser game controlled by phone movement |
 | [All repositories ↗](https://github.com/Bhavish49?tab=repositories) | Projects, experiments, and source code |
 | [Recent activity ↗](https://github.com/Bhavish49?tab=activity) | What I’ve been working on lately |
 | [Follow along ↗](https://github.com/Bhavish49) | New work and updates on GitHub |
-
-> On mobile, open the game and tap **Enable gyro**. On desktop, use the arrow keys or WASD.
 
 ### `03` / github telemetry
 
