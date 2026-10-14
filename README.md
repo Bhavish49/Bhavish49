@@ -31,16 +31,6 @@ Could you take a look at my work and share your feedback? I’d love your though
 
 </div>
 
-### `03` / explore
-
-| Destination | What you’ll find |
-|:--|:--|
-| [All repositories ↗](https://github.com/Bhavish49?tab=repositories) | Projects, experiments, and source code |
-| [Recent activity ↗](https://github.com/Bhavish49?tab=activity) | What I’ve been working on lately |
-| [Follow along ↗](https://github.com/Bhavish49) | New work and updates on GitHub |
-
-### `04` / github telemetry
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhavish49&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00FFCC&text_color=00FFCC&icon_color=FF00CC&rank_icon=github" alt="Bhavish's GitHub statistics" />
@@ -50,8 +40,6 @@ Could you take a look at my work and share your feedback? I’d love your though
 
 </div>
 
-
-### `06` / currently
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
