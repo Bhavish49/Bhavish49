@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Bhavish B N</h1>
-<h3 align="center">A curious builder, learning and creating one project at a time.</h3>
+<h3 align="center">CSE student at GECH Hassan, learning and building one project at a time.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Bhavish49&label=Profile%20views&color=00FFCC&style=flat" alt="Bhavish49 profile views" />
 </p>
 
+- 🎓 I’m studying Computer Science and Engineering (CSE) at Government Engineering College, Hassan (GECH).
 - 🌱 I’m currently exploring, learning, and building.
 - 💻 Take a look at [my repositories](https://github.com/Bhavish49?tab=repositories) to see my projects and experiments.
 - 🤝 I’m open to ideas, collaboration, and constructive feedback.
