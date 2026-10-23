@@ -12,6 +12,23 @@
 
 I use this space to share what I build, what I’m exploring, and the ideas I’m working through. Every project is part of the journey.
 
+<h3 align="left">🛠️ Skills & Technologies</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,mysql" alt="Skills" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
 <h3 align="left">GitHub Stats</h3>
 
 <p>
