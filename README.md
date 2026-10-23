@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bhavish B N</h1>
 <h3 align="center">CSE student at GECH Hassan, learning and building one project at a time.</h3>
 
-- 🎓 I’m studying Computer Science and Engineering (CSE) at Government Engineering College, Hassan (GECH).
+- 🎓 I’m studying Computer Science and Engineering.
 - 🌱 I’m currently exploring, learning, and building.
 - 💻 Take a look at [my repositories](https://github.com/Bhavish49?tab=repositories) to see my projects and experiments.
 - 🤝 I’m open to ideas, collaboration, and constructive feedback.
